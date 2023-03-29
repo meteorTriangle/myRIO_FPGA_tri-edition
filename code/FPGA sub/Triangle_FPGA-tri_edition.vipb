@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2022-08-29 19:25:42" Modified_Date="2022-09-03 15:31:01" Creator="robot" Comments="" ID="742a32e3430ab00b655cee6492665b04">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2022-08-29 19:25:42" Modified_Date="2023-03-15 14:53:17" Creator="robot" Comments="" ID="406518be0717555287514fc0d29802c5">
   <Library_General_Settings>
     <Package_File_Name>TriangleTek_lib_Triangle_FPGA_tri_edition</Package_File_Name>
-    <Library_Version>2.1.0.4</Library_Version>
+    <Library_Version>2.4.2.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>low level</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -116,9 +116,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Exclusions>
-        <Path>FPGA/FPGA close.vi</Path>
-      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -302,7 +299,7 @@
         <Path>low level\us sensor</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F1FC9B61D7296BC9C7DEE97021F22DCB</GUID>
+      <GUID>76FA69583C0546EB5B31441FE0C43A10</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -379,7 +376,7 @@
         <Path>low level\DIO\DIO write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6F0C78069CC1E20701BBF1F5F942FDB4</GUID>
+      <GUID>2CC04B96A403393FA9B3523CF2BBDC39</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -456,7 +453,7 @@
         <Path>low level\I2C\I2C write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F3C0C9945ACC3167D641192FFFDC28BA</GUID>
+      <GUID>EE286EC3BB649EC235180E8D694AA151</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -505,7 +502,7 @@
         <Path>low level\IR sensor\IR read.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0C30C4D66E534DD13CDEFD0581B9733A</GUID>
+      <GUID>D8805A5745AFE93301AA081BEA4FF0CC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -540,7 +537,7 @@
         <Path>low level\motor\motor run.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BD02AD2C0B7EE02E88BF2B45849C9D0D</GUID>
+      <GUID>EA97E39A9DFC01A39913B4CDF6C56BF6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -589,7 +586,7 @@
         <Path>low level\onBoard\onBoard LED.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DB7FF92F36636887A53523FC0E2AAA78</GUID>
+      <GUID>88E6D1C818DACC3D5791F155FD2B2C83</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -624,7 +621,7 @@
         <Path>low level\Servo\servo set pulse.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B95DCB241460DCDEA05F0CAC6B77F629</GUID>
+      <GUID>90A020E4A35D734CBB6E24EE3DFED9A5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -687,7 +684,7 @@
         <Path>low level\us sensor\us read.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DA9CB3576BE4770CF0F6E98D0CDCA366</GUID>
+      <GUID>3F26CDCB384ED0194F7108D1FA435D5F</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -764,7 +761,7 @@
         <Path>low level\us sensor</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7186EE620AA3111C27E7EFF8D94B4846</GUID>
+      <GUID>E7F06CCA884DE0EAA581517DB17B1784</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -813,7 +810,7 @@
         <Path>low level\DIO\DIO enum.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9B0499DFBCDA178BBBDAB7EA8238D0F3</GUID>
+      <GUID>0F4BA741DB6D0110CCE5A51AFABD3166</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -848,7 +845,7 @@
         <Path>low level\motor\motor enum.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0FCCDC5679FB3B1C0BD9F7D03DAE885E</GUID>
+      <GUID>9269F0530612A872F6B92FCB4773D350</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -883,7 +880,7 @@
         <Path>low level\Servo\Servo.enum.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BFB2496E76C6689E726CC6ECB72FF2AE</GUID>
+      <GUID>66A6394F808DEB86DA7CE24ED9135000</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -918,7 +915,7 @@
         <Path>low level\us sensor\us select.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>83BC2E9FCC9B6CAAC82B792AA3EA3A68</GUID>
+      <GUID>097C875986F7811708C84052557492C9</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -953,7 +950,7 @@
         <Path>low level\DIO\private\port.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>36AC88A56717C3764A86CC4266C434D0</GUID>
+      <GUID>438F861D040501395D700904933886E7</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

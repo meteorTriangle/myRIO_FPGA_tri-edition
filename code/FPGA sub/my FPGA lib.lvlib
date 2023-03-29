@@ -9,6 +9,7 @@
 
 </Property>
 	<Item Name="FPGA" Type="Folder">
+		<Item Name="FPPGA.ctl" Type="VI" URL="../low level/FPGA/FPPGA.ctl"/>
 		<Item Name="FPGA close.vi" Type="VI" URL="../low level/FPGA/FPGA close.vi"/>
 		<Item Name="FPGA open if close.vi" Type="VI" URL="../low level/FPGA/FPGA open if close.vi"/>
 		<Item Name="FPGA open.vi" Type="VI" URL="../low level/FPGA/FPGA open.vi"/>
@@ -17,12 +18,12 @@
 		</Item>
 	</Item>
 	<Item Name="onBoard IO" Type="Folder">
-		<Item Name="onBoard button.vi" Type="VI" URL="../.low level/onBoard/onBoard button.vi"/>
-		<Item Name="onBoard LED.vi" Type="VI" URL="../.low level/onBoard/onBoard LED.vi"/>
+		<Item Name="onBoard button.vi" Type="VI" URL="../low level/onBoard/onBoard button.vi"/>
+		<Item Name="onBoard LED.vi" Type="VI" URL="../low level/onBoard/onBoard LED.vi"/>
 	</Item>
 	<Item Name="Servo" Type="Folder">
-		<Item Name="Servo.enum.ctl" Type="VI" URL="../.low level/Servo/Servo.enum.ctl"/>
-		<Item Name="servo set pulse.vi" Type="VI" URL="../.low level/Servo/servo set pulse.vi"/>
+		<Item Name="Servo.enum.ctl" Type="VI" URL="../low level/Servo/Servo.enum.ctl"/>
+		<Item Name="servo set pulse.vi" Type="VI" URL="../low level/Servo/servo set pulse.vi"/>
 	</Item>
 	<Item Name="US sensor" Type="Folder">
 		<Item Name="US sensor.lvclass" Type="LVClass" URL="../low level/us sensor/US sensor.lvclass"/>
